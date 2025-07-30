@@ -15,6 +15,22 @@
       "dest": "/static/$1"
     },
     {
+      "src": "/Picture1.png",
+      "dest": "/Picture1.png"
+    },
+    {
+      "src": "/Picture2.png", 
+      "dest": "/Picture2.png"
+    },
+    {
+      "src": "/Picturee.png",
+      "dest": "/Picturee.png"
+    },
+    {
+      "src": "/Picture.jpg",
+      "dest": "/Picture.jpg"
+    },
+    {
       "src": "/favicon.ico",
       "dest": "/favicon.ico"
     },
